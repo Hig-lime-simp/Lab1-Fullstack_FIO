@@ -12,3 +12,4 @@ D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\refint\backend.dll
 D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.pdb
 D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
 D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\ref\backend.dll
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.sourcelink.json
