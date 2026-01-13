@@ -1,0 +1,14 @@
+D:\ИСРПО_лаб_1\backend\bin\Debug\net10.0\backend.exe
+D:\ИСРПО_лаб_1\backend\bin\Debug\net10.0\backend.deps.json
+D:\ИСРПО_лаб_1\backend\bin\Debug\net10.0\backend.runtimeconfig.json
+D:\ИСРПО_лаб_1\backend\bin\Debug\net10.0\backend.dll
+D:\ИСРПО_лаб_1\backend\bin\Debug\net10.0\backend.pdb
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.dll
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\refint\backend.dll
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.pdb
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
+D:\ИСРПО_лаб_1\backend\obj\Debug\net10.0\ref\backend.dll
